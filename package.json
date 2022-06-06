@@ -1,0 +1,33 @@
+{
+  "name": "@hidetoxic/genernal-tools",
+  "version": "0.0.1",
+  "description": "A toolkit for hidetoxic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidetoxic/general-tools.git"
+  },
+  "keywords": [
+    "toolkit",
+    "general"
+  ],
+  "author": "Hidetodong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidetoxic/general-tools/issues"
+  },
+  "homepage": "https://github.com/hidetoxic/general-tools#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.40",
+    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/parser": "^5.27.0",
+    "eslint": "^8.17.0"
+  },
+  "files": [
+    "lib"
+  ]
+}
